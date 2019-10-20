@@ -7,7 +7,6 @@ using namespace std;
 class Config
 {
 public:
-    //! Nam - static is necessary, don't know why
     // Groundtruth source file
     static string groundTruthFile;
 
