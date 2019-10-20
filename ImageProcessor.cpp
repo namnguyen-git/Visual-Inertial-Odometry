@@ -1,6 +1,5 @@
 #include <ImageProcessor.h>
 #include <utils.h>
-#include <FeaturesRedistributor.h>
 #include <RANSAC.h>
 #include <LocalMap.h>
 
