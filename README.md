@@ -7,5 +7,4 @@ Unoptimized version: ~1.5% translation error, 20 frames/s 1 core Intel(R) Core(T
 # Dependencies
 - Opencv
 - Eigen
-- IDE Qt 5.13.1
 
