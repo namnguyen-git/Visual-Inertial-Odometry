@@ -13,7 +13,7 @@ using namespace std;
 
 int main()
 {    
-    int initFrameID = 1200;
+    int initFrameID = 1;
     int FrameID = 1;
     int maxFrameID = 300;
     int numOfTrackedFeatures = 0;    
