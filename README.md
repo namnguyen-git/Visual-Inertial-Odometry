@@ -8,3 +8,5 @@ Unoptimized version: ~1.5% translation error, 20 frames/s 1 core Intel(R) Core(T
 - Opencv
 - Eigen
 
+# Improvement with machine learning
+![alt test](linear_regression.png)
