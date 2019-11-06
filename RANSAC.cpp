@@ -1,6 +1,3 @@
-//! RANSAC: implementation adopted from Phuc H. Truong
-//! following Shaojie Shen et. al. "Vision-Based State Estimation for Autonomous Rotorcraft MAVs in Complex Environments"
-
 #include "RANSAC.h"
 #include <utils.h>
 
